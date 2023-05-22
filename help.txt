@@ -1,0 +1,14 @@
+Integração com AD:
+https://learn.microsoft.com/pt-br/azure/active-directory/saas-apps/sonarqube-tutorial
+
+Alterar vm.max_map_count=262144 no host do container docker
+https://github.com/spujadas/elk-docker/issues/99
+https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc
+https://bigdata-etl.com/max-virtual-memory-areas-vm-max_map_count/
+
+Como obter senha do sonarqube para instancias criadas na azure usando imagens da Bitnami:
+https://docs.bitnami.com/azure/faq/get-started/find-credentials/
+
+Projetos de exemplo:
+https://docs.bitnami.com/general/how-to/analyze-projects-sonarqube/
+https://medium.com/@thiagoloureiro/an%C3%A1lise-de-c%C3%B3digo-com-sonarqube-docker-net-core-aad17147486a
