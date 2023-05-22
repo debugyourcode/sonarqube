@@ -13,3 +13,7 @@ Projetos de exemplo:
 https://medium.com/jrtec/static-analysis-using-sonarqube-in-a-react-webapp-dd4b335d6062
 https://docs.bitnami.com/general/how-to/analyze-projects-sonarqube/
 https://medium.com/@thiagoloureiro/an%C3%A1lise-de-c%C3%B3digo-com-sonarqube-docker-net-core-aad17147486a
+
+Code coverage collector for dotnet core e React (jest)
+https://docs.sonarqube.org/latest/analyzing-source-code/test-coverage/dotnet-test-coverage/
+https://plainenglish.io/blog/how-to-set-up-sonarqube-locally-on-a-react-typescript-project-ec02cd8e2626
