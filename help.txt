@@ -10,5 +10,6 @@ Como obter senha do sonarqube para instancias criadas na azure usando imagens da
 https://docs.bitnami.com/azure/faq/get-started/find-credentials/
 
 Projetos de exemplo:
+https://medium.com/jrtec/static-analysis-using-sonarqube-in-a-react-webapp-dd4b335d6062
 https://docs.bitnami.com/general/how-to/analyze-projects-sonarqube/
 https://medium.com/@thiagoloureiro/an%C3%A1lise-de-c%C3%B3digo-com-sonarqube-docker-net-core-aad17147486a
